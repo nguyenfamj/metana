@@ -1,0 +1,6 @@
+.env
+node_modules
+fbData
+your_activity_across_facebook
+message-*.json
+CallHistory.pdf
